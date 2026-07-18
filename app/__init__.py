@@ -1,0 +1,1 @@
+"""Telegram gifts subscription bot."""
