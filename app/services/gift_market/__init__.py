@@ -1,0 +1,1 @@
+"""Gift market monitoring adapters."""
