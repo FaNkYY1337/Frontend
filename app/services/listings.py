@@ -327,7 +327,7 @@ def format_listing_message(
     slug_value = f'<a href="{gift_url}">{escape(lot_name)}</a>' if gift_url else escape(lot_name)
 
     lines = [
-        '<a href="https://t.me/syndtrackbot"><b>Gift Tracker</b></a>',
+        '<a href="https://t.me/MarketsTrackingBot"><b>𝐌𝐀𝐑𝐊𝐄𝐓 𝐋𝐈𝐒𝐓𝐈𝐍𝐆𝐒</b></a>',
         f"{premium_emoji('party', use_premium_emoji)} <b>НОВЫЙ ЛИСТИНГ</b>",
         "",
         f"{premium_emoji('gift', use_premium_emoji)} Гифт: {gift_value}",
